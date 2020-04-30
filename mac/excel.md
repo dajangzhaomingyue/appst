@@ -10,9 +10,9 @@
 
 激活软件： FWMS2016VLU2.0+
 
-![image-20200430124036884](image-20200430124036884.png)
+![image-20200430124036884](https://github.com/dajangzhaomingyue/appst/blob/master/mac/image-20200430124036884.png)
 
-![image-20200430124418830](image-20200430124418830.png)
+![image-20200430124418830](https://github.com/dajangzhaomingyue/appst/blob/master/mac/image-20200430124418830.png)
 
 步骤；
 
