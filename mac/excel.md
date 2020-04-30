@@ -10,9 +10,9 @@
 
 激活软件： FWMS2016VLU2.0+
 
-![image-20200430124036884](/Users/cpenny/Library/Application Support/typora-user-images/image-20200430124036884.png)
+![image-20200430124036884](image-20200430124036884.png)
 
-![image-20200430124418830](/Users/cpenny/Library/Application Support/typora-user-images/image-20200430124418830.png)
+![image-20200430124418830](image-20200430124418830.png)
 
 步骤；
 
