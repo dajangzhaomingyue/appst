@@ -10,9 +10,9 @@
 
 激活软件： FWMS2016VLU2.0+
 
-![image-20200430124036884](https://github.com/dajangzhaomingyue/appst/blob/master/mac/image-20200430124036884.png)
+![image-20200430124036884](image-20200430124036884.png)
 
-![image-20200430124418830](https://github.com/dajangzhaomingyue/appst/blob/master/mac/image-20200430124418830.png)
+![image-20200430124418830](image-20200430124418830.png)
 
 步骤；
 
@@ -25,6 +25,6 @@
 
     http://baijiahao.baidu.com/s?id=1658419724787684889&wfr=spider&for=pc
 
-	2. 安装后软件无法打开（前Office软件未清理干净）
+2. 安装后软件无法打开（前Office软件未清理干净）
 
     https://support.office.com/en-us/article/uninstall-office-for-mac-eefa1199-5b58-43af-8a3d-b73dc1a8cae3
